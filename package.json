@@ -15,6 +15,7 @@
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0",
     "minimist":"0.1.1",
+    "ini-parser":"0.0.1",
     "tiny-json-http": "^7.1.2"
   }
 }
